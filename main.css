@@ -1,0 +1,21 @@
+h1 {
+	color: orange;
+	font-size: 50px;
+	font-family: 'Helvetica', serif;
+}
+
+p {
+	color: hotpink;
+	font-size: 20px;
+
+}
+
+#shiny {
+	color: gold;
+}
+
+img {
+	width: 80%
+	border:10px;
+	border-style: dotted;
+}
